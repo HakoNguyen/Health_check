@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/ruler-vertical.ico</file>
+    <file>icons/scale.ico</file>
+    <file>icons/male.ico</file>
+    <file>icons/female.ico</file>
+    <file>icons/interrogation.ico</file>
+    <file>icons/salad.ico</file>
+    <file>icons/daily-health-app_4803235.ico</file>
+    <file>icons/watch-fitness.ico</file>
+    <file>icons/calculator.ico</file>
+    <file>icons/check.ico</file>
+    <file>icons/equality.ico</file>
+    <file>icons/flame.ico</file>
+    <file>icons/gym.ico</file>
+    <file>icons/home (1).ico</file>
+    <file>icons/home.ico</file>
+    <file>icons/list.ico</file>
+    <file>icons/menu-burger.ico</file>
+    <file>icons/minus.ico</file>
+    <file>icons/pulse.ico</file>
+    <file>icons/restaurant.ico</file>
+    <file>icons/user (1).ico</file>
+    <file>icons/user.ico</file>
+    <file>icons/wishlist-heart (1).ico</file>
+  </qresource>
+</RCC>
